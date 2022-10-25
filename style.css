@@ -12,7 +12,7 @@ h2{
 a{
     color: violet;
 }
-head{
+.mainheader{
     background-color: aquamarine;
     prefix: -moz-element();
 
