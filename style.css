@@ -14,6 +14,5 @@ a{
 }
 .mainheader{
     background-color: aquamarine;
-    prefix: -moz-element();
 
 }
