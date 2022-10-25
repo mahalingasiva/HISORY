@@ -12,3 +12,8 @@ h2{
 a{
     color: violet;
 }
+head{
+    background-color: aquamarine;
+    prefix: -moz-element();
+
+}
